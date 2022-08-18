@@ -5,12 +5,17 @@ contributor:
     agent_name: Willink, H. G.
     gutenberg_agent_id: '54918'
     url: http://www.gutenberg.org/2009/agents/54918
+covers:
+- cover_type: archival
+  image_path: 68725-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Phillipps-Wolley, C.
     gutenberg_agent_id: '54917'
     url: http://www.gutenberg.org/2009/agents/54917
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68725#Snap-A-legend-of-the-lone-mountain
 gutenberg_issued: '2022-08-10'
 identifiers:
   gutenberg: '68725'
